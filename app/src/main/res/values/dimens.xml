@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="gap_small">4dp</dimen>
+	<dimen name="gap_smedium">6dp</dimen>
+	<dimen name="gap_medium">8dp</dimen>
+	<dimen name="gap_mhigh">12dp</dimen>
+	<dimen name="gap_high">16dp</dimen>
+    <dimen name="gap_mxhigh">26dp</dimen>
+	<dimen name="gap_xhigh">32dp</dimen>
+	<dimen name="gap_xxhigh">64dp</dimen>
+    <dimen name="font_size_normal">14sp</dimen>
+
+    <dimen name="actionbar_height">56dp</dimen>
+    <dimen name="tab_host_default_height">48dp</dimen>
+</resources>
