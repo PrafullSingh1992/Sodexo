@@ -1,11 +1,13 @@
 language: android
-script:
-      - ./gradlew
-      - build
+
 android:
   components:
   - build-tools-20.0.0
   - android-19
+
+script:
+      - ./gradlew
+      - build
 
 deploy:
   - provider: releases
